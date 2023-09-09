@@ -6,8 +6,8 @@ I've got some experience in software development and a real hunger for learning.
 # Instagram Clone
 
 <img class="logo" src="assets/instagram-logo.png" width="120">
+<a href="https://github.com/luisValdess/instagram-clone">🔗 Instagram Clone</a>
 <br>
- <a href="https://github.com/luisValdess/instagram-clone">🔗 link to the code</a>
  
 > - User Interface built completely with SwiftUI
 > - MVVM Architecture pattern
@@ -19,4 +19,4 @@ I've got some experience in software development and a real hunger for learning.
 > - Search for users
 > - Server side functions for optimized performance
 
-<img src="images/assets/instagram-clone.png" width="1024">
+<img src="assets/instagram-clone.png" width="1024">

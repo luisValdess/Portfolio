@@ -19,4 +19,4 @@ I've got some experience in software development and a real hunger for learning.
 > - Search for users
 > - Server side functions for optimized performance
 
-<img src="assets/instagram-clone.png" width="1024">
+<img src="assets/instagram-clone.png" width="1024" height="500" >

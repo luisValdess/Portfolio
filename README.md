@@ -37,5 +37,5 @@ I've got some experience in software development and a real hunger for learning.
 > - Multi-threading (using background threads)
 > - Safe coding!!! ("if let" and "guard" statements to avoid crashes)
 
-<img src="assets/crypto-video.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/crypto-darkmode.png" width="200">
+<img src="assets/crypto-video.gif" width="260"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/crypto-darkmode.png" width="260">
 
